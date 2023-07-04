@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af45a8b993b433daa965b865faf05c3, type: 3}
+  m_Name: IceExplosion
+  m_EditorClassIdentifier: 
+  rotatable: 0
+  defaultRotation: {x: 0, y: 0, z: 0, w: 1}
+  sprites:
+  - {fileID: -1245544503, guid: 589510ec3c7cd4a4995b5f26b4bc32f7, type: 3}
+  - {fileID: 770670257, guid: 589510ec3c7cd4a4995b5f26b4bc32f7, type: 3}
+  - {fileID: -2041976175, guid: 589510ec3c7cd4a4995b5f26b4bc32f7, type: 3}
+  - {fileID: 454243183, guid: 589510ec3c7cd4a4995b5f26b4bc32f7, type: 3}

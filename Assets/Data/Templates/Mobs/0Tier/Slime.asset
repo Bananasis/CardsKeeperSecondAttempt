@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -1747889376, guid: 5d410effc77be324d8a7a8dfb61438c0, type: 3}
+  mobName: Slime
+  tags:
+  - {fileID: 11400000, guid: 4389b697337ce6c40b504d5e11e45a59, type: 2}
+  - {fileID: 11400000, guid: 1cab949c1cb51b24f8649c69645df9e9, type: 2}
+  crafts: []
+  cost: 2
+  tier: 0

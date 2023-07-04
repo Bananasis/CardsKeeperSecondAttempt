@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Melting
+  m_EditorClassIdentifier: 
+  tagName: Melting
+  tagTitle: Melting
+  tagDescription: Melts 1 point of armor with every attack
+  defenceModifiers: []
+  attackModifiers:
+  - exlusive: 1
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: dd370cb2a376f1147ac3ba931f2d993a, type: 2}
+    otherTags: []
+  hp: 0
+  damage: -1
+  speed: 0
+  armor: -1
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 0
+  attack: {fileID: 11400000, guid: 5f34b7d994976224db644e2b7e98ea72, type: 2}
+  impact: {fileID: 11400000, guid: 350d8c00328b7f84b9eebeb1d31003dd, type: 2}
+  spawn: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af45a8b993b433daa965b865faf05c3, type: 3}
+  m_Name: Holy Spawn
+  m_EditorClassIdentifier: 
+  rotatable: 0
+  defaultRotation: {x: 0, y: 0, z: 0, w: 1}
+  sprites:
+  - {fileID: 1462475870, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 1196979025, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 150559536, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 1292859716, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: -1655442586, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 1043129697, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: -1214212892, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: -377737485, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 1310274920, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: -2107457769, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: -743241129, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: -690003201, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 1122658967, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 291611863, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}
+  - {fileID: 34765268, guid: 36e40c0a8aa068844bf8931bb3b2f53d, type: 3}

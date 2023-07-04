@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baf3736f333448048f7341b43fdc2606, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  weaponName: Gunner
+  sprite: {fileID: 343819480, guid: ba3dcd0937f70eb4ba539e2c8ead8c14, type: 3}
+  tags:
+  - {fileID: 11400000, guid: b475194fb600eed46bbfcd1f3133ca6e, type: 2}
+  - {fileID: 11400000, guid: 0d673a4b5c56bde4181b9f6d1f27584b, type: 2}
+  - {fileID: 11400000, guid: 46941eaa917980c44b39b0ac6e688f3a, type: 2}
+  tier: 2

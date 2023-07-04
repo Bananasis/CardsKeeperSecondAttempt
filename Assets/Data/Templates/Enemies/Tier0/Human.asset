@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f10d7c055984ed78e8d864b3b5dc3cf, type: 3}
+  m_Name: Human
+  m_EditorClassIdentifier: 
+  enemyName: Human
+  sprite: {fileID: -3876759189950653258, guid: 2d4f286935d4a4a42a08da18dd0d1512, type: 3}
+  banner: {fileID: 21300000, guid: 95037338e2bd78d41b6a33fb628bda61, type: 3}
+  tags:
+  - {fileID: 11400000, guid: 536d6332c335b4f44ba3a9cdfff5c231, type: 2}
+  - {fileID: 11400000, guid: b7ce46c7a30e36d47b102c3796515e47, type: 2}

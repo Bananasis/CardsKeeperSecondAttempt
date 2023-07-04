@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: 
+  tagName: Fire damage
+  tagTitle: Fire damage
+  tagDescription: 
+  defenceModifiers: []
+  attackModifiers:
+  - exlusive: 1
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: 48d851df7c47b7d428f48a0f069a8ac2, type: 2}
+    otherTags:
+    - {fileID: 11400000, guid: 558a7f88c56b1b74c97eda95660af0b1, type: 2}
+  adjacencyModifiers: []
+  hp: -1
+  damage: -1
+  speed: 1
+  armor: 0
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 0
+  attack: {fileID: 11400000, guid: 79e6a7c8fdc1d9a498491c90dcf5bc93, type: 2}
+  impact: {fileID: 11400000, guid: cd75b262c55ff1642acaab50afcbeade, type: 2}
+  spawn: {fileID: 0}

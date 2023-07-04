@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Agile
+  m_EditorClassIdentifier: 
+  tagName: Agile
+  tagTitle: Agile
+  tagDescription: Takes less damage from Huge enemies.
+  defenceModifiers:
+  - exlusive: 0
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: 0ac2ef3e117da08469172528cd83b697, type: 2}
+    - {fileID: 11400000, guid: 0ac2ef3e117da08469172528cd83b697, type: 2}
+    - {fileID: 11400000, guid: 0ac2ef3e117da08469172528cd83b697, type: 2}
+    otherTags:
+    - {fileID: 11400000, guid: 8158048aa452d45438430e3416ab2376, type: 2}
+  attackModifiers: []
+  hp: 0
+  damage: 0
+  speed: 1
+  armor: -1
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 0
+  attack: {fileID: 0}
+  impact: {fileID: 0}
+  spawn: {fileID: 0}

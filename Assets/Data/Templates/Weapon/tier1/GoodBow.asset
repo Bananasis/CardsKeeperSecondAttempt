@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baf3736f333448048f7341b43fdc2606, type: 3}
+  m_Name: GoodBow
+  m_EditorClassIdentifier: 
+  weaponName: Archer
+  sprite: {fileID: 1730859025, guid: ba3dcd0937f70eb4ba539e2c8ead8c14, type: 3}
+  tags:
+  - {fileID: 11400000, guid: b475194fb600eed46bbfcd1f3133ca6e, type: 2}
+  - {fileID: 11400000, guid: 2790fd6381ac0f34c8a761b693edd683, type: 2}
+  tier: 1

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af45a8b993b433daa965b865faf05c3, type: 3}
+  m_Name: Explode
+  m_EditorClassIdentifier: 
+  rotatable: 0
+  defaultRotation: {x: 0, y: 0, z: 0, w: 1}
+  sprites:
+  - {fileID: 215426020, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: -927817522, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: -553071014, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: -1083527099, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: 46339944, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: 644709627, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: -928304797, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: -433538989, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: -1222826179, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: 1341448437, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: 426870605, guid: abd01f2faa853204fba68d827b737d4a, type: 3}
+  - {fileID: 1728288393, guid: abd01f2faa853204fba68d827b737d4a, type: 3}

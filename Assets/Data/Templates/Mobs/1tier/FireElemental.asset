@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: FireElemental
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 311976238, guid: 5d410effc77be324d8a7a8dfb61438c0, type: 3}
+  mobName: Fire Elemental
+  tags:
+  - {fileID: 11400000, guid: 44f865e8cff6ad646ba16079a3792d35, type: 2}
+  - {fileID: 11400000, guid: 558a7f88c56b1b74c97eda95660af0b1, type: 2}
+  crafts: []
+  cost: 5
+  tier: 1

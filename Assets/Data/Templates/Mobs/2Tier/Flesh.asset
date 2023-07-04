@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: Flesh
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 125264486, guid: 2224432ba45ae1d4e87800d74fe6bb4f, type: 3}
+  mobName: Flesh
+  tags:
+  - {fileID: 11400000, guid: 4389b697337ce6c40b504d5e11e45a59, type: 2}
+  - {fileID: 11400000, guid: 1cab949c1cb51b24f8649c69645df9e9, type: 2}
+  - {fileID: 11400000, guid: bed2bab8d7fe82d4ca5a9b4063486ca0, type: 2}
+  - {fileID: 11400000, guid: 4059471cb026ba64f98ad30ad5f9436f, type: 2}
+  crafts:
+  - first: {fileID: 11400000, guid: c0350d8f54a6b234fbec68d009198efc, type: 2}
+    second: {fileID: 11400000, guid: c24799be3bb6b564cad482d691fd4d69, type: 2}
+    firstCount: 1
+    secondCount: 1
+  cost: 13
+  tier: 2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: Magma Golem
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 615422354, guid: 2224432ba45ae1d4e87800d74fe6bb4f, type: 3}
+  mobName: Magma Golem
+  tags:
+  - {fileID: 11400000, guid: 8158048aa452d45438430e3416ab2376, type: 2}
+  - {fileID: 11400000, guid: 558a7f88c56b1b74c97eda95660af0b1, type: 2}
+  - {fileID: 11400000, guid: aab92a1fd54021b4db3a207ef1895dd8, type: 2}
+  crafts:
+  - first: {fileID: 11400000, guid: 73c9cc42bd7d23146b70c7cc636ce164, type: 2}
+    second: {fileID: 11400000, guid: 4aa51625881348340a1747a8853ae60d, type: 2}
+    firstCount: 1
+    secondCount: 1
+  cost: 22
+  tier: 3

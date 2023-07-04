@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: Ice Elemental
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1277552583, guid: 5d410effc77be324d8a7a8dfb61438c0, type: 3}
+  mobName: Ice Elemental
+  tags:
+  - {fileID: 11400000, guid: 52ee675502fdfa341be545e9ab9c9d20, type: 2}
+  - {fileID: 11400000, guid: 409acad53c913dd4381ffb4348c1cf4f, type: 2}
+  crafts: []
+  cost: 5
+  tier: 1

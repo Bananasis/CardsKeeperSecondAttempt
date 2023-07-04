@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Horde
+  m_EditorClassIdentifier: 
+  tagName: Horde
+  tagTitle: Horde
+  tagDescription: Increase hp by 1 for each other Horde unit
+  defenceModifiers: []
+  attackModifiers: []
+  adjacencyModifiers:
+  - exlusive: 0
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: d0166a46311fb6d42a7eb989f867c7d2, type: 2}
+    otherTags:
+    - {fileID: 11400000}
+  hp: -2
+  damage: 0
+  speed: 0
+  armor: 0
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 0
+  attack: {fileID: 0}
+  impact: {fileID: 0}
+  spawn: {fileID: 0}

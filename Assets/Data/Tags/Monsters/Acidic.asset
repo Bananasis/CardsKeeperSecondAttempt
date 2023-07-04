@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Acidic
+  m_EditorClassIdentifier: 
+  tagName: Acidic
+  tagTitle: Acidic
+  tagDescription: Melts 1 point of armor
+  defenceModifiers: []
+  attackModifiers:
+  - exlusive: 1
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: 941290f9edcae434cbcc873849ec16e9, type: 2}
+    otherTags: []
+  adjacencyModifiers: []
+  hp: 0
+  damage: -1
+  speed: 0
+  armor: -1
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 0
+  attack: {fileID: 0}
+  impact: {fileID: 0}
+  spawn: {fileID: 0}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af8a60069a44ca989400d431ff54529, type: 3}
+  m_Name: Wave 3
+  m_EditorClassIdentifier: 
+  treasureReward: 0
+  reward: []
+  wave:
+  - weapon: {fileID: 11400000, guid: 5fdddf368aa447344b2c8526e762b44c, type: 2}
+    enemy: {fileID: 11400000, guid: 109a4827fe7869d46a2b57e8ebcd6bca, type: 2}
+  - weapon: {fileID: 11400000, guid: d2f4afdaaddab594cab200744e99899c, type: 2}
+    enemy: {fileID: 11400000, guid: 313db982056065e428e59e5392350d3b, type: 2}
+  - weapon: {fileID: 11400000, guid: 3b9fd32b5b15fdd46a76a0e4672b8681, type: 2}
+    enemy: {fileID: 11400000, guid: b7dc057c9dc5be74e8322f3f7220f66f, type: 2}
+  - weapon: {fileID: 11400000, guid: 3779b695de3ad6e4b922f8335248786a, type: 2}
+    enemy: {fileID: 11400000, guid: 05eeb63513761604d8a1855e3b5509c6, type: 2}
+  - weapon: {fileID: 11400000, guid: d2f4afdaaddab594cab200744e99899c, type: 2}
+    enemy: {fileID: 11400000, guid: a2ce5d65ae966a841813f4424b264eab, type: 2}
+  - weapon: {fileID: 11400000, guid: 979be39e206d0814f90bb05c4274238c, type: 2}
+    enemy: {fileID: 11400000, guid: b7dc057c9dc5be74e8322f3f7220f66f, type: 2}
+  entranceReward: 0

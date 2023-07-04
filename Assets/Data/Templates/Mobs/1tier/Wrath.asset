@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: Wrath
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1974803545, guid: 5d410effc77be324d8a7a8dfb61438c0, type: 3}
+  mobName: Wrath
+  tags:
+  - {fileID: 11400000, guid: 5ddb2a8accf445a4e934379934840bc5, type: 2}
+  - {fileID: 11400000, guid: bed2bab8d7fe82d4ca5a9b4063486ca0, type: 2}
+  crafts:
+  - first: {fileID: 11400000, guid: 159f3d586059d0c4e8e6c302b069617e, type: 2}
+    second: {fileID: 0}
+    firstCount: 2
+    secondCount: 0
+  cost: 5
+  tier: 1

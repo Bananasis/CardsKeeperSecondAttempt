@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Transcendental
+  m_EditorClassIdentifier: 
+  tagName: Transcendental
+  tagTitle: Transcendental
+  tagDescription: Can only be damaged by physical attacks
+  defenceModifiers:
+  - exlusive: 0
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: 1bc5bec8e2723e544b3774db7203ac30, type: 2}
+    otherTags:
+    - {fileID: 11400000, guid: 44f865e8cff6ad646ba16079a3792d35, type: 2}
+    - {fileID: 11400000, guid: 386ac3db5e123484ab886b260ddf53bb, type: 2}
+    - {fileID: 11400000, guid: 52ee675502fdfa341be545e9ab9c9d20, type: 2}
+  attackModifiers: []
+  adjacencyModifiers: []
+  hp: -1
+  damage: 0
+  speed: -1
+  armor: 1
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 1
+  attack: {fileID: 0}
+  impact: {fileID: 0}
+  spawn: {fileID: 0}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Soft
+  m_EditorClassIdentifier: 
+  tagName: Soft
+  tagTitle: Soft
+  tagDescription: Ignores piercing damage
+  defenceModifiers:
+  - exlusive: 0
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: 0ac2ef3e117da08469172528cd83b697, type: 2}
+    - {fileID: 11400000, guid: 0ac2ef3e117da08469172528cd83b697, type: 2}
+    - {fileID: 11400000, guid: 0ac2ef3e117da08469172528cd83b697, type: 2}
+    - {fileID: 11400000, guid: 0ac2ef3e117da08469172528cd83b697, type: 2}
+    otherTags:
+    - {fileID: 11400000, guid: 2790fd6381ac0f34c8a761b693edd683, type: 2}
+  attackModifiers: []
+  hp: 1
+  damage: 0
+  speed: -1
+  armor: 0
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 0
+  attack: {fileID: 0}
+  impact: {fileID: 0}
+  spawn: {fileID: 0}

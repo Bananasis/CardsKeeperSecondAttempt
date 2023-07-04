@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: WhiteSpider
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -131747152, guid: 5d410effc77be324d8a7a8dfb61438c0, type: 3}
+  mobName: White Spider
+  tags:
+  - {fileID: 11400000, guid: fec2cde0a2fc74840bced89debc37f77, type: 2}
+  - {fileID: 11400000, guid: b0857ef69e11971498572288fcbcade3, type: 2}
+  - {fileID: 11400000, guid: a82d70091c794164dabf87f738e03111, type: 2}
+  crafts:
+  - first: {fileID: 11400000, guid: 1c4910eb43c10104f8827eee775299b7, type: 2}
+    second: {fileID: 0}
+    firstCount: 2
+    secondCount: 0
+  cost: 4
+  tier: 1

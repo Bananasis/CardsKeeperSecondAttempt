@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f10d7c055984ed78e8d864b3b5dc3cf, type: 3}
+  m_Name: Dwarf
+  m_EditorClassIdentifier: 
+  enemyName: Dwarf
+  sprite: {fileID: -7642239419928554605, guid: 2d4f286935d4a4a42a08da18dd0d1512, type: 3}
+  banner: {fileID: 21300000, guid: 781a5608cc3208f4fb9d890a5228de92, type: 3}
+  tags:
+  - {fileID: 11400000, guid: 113e574c6164ca041aea14c6846211f3, type: 2}

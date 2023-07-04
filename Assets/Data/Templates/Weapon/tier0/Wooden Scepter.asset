@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baf3736f333448048f7341b43fdc2606, type: 3}
+  m_Name: Wooden Scepter
+  m_EditorClassIdentifier: 
+  weaponName: Priest
+  sprite: {fileID: -448813978, guid: ba3dcd0937f70eb4ba539e2c8ead8c14, type: 3}
+  tags:
+  - {fileID: 11400000, guid: 386ac3db5e123484ab886b260ddf53bb, type: 2}
+  tier: 0

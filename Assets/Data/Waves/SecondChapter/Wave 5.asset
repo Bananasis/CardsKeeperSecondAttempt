@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af8a60069a44ca989400d431ff54529, type: 3}
+  m_Name: Wave 5
+  m_EditorClassIdentifier: 
+  treasureReward: 0
+  reward: []
+  wave:
+  - weapon: {fileID: 11400000, guid: cb55f0e710d34fd46ba55dbb0312703b, type: 2}
+    enemy: {fileID: 11400000, guid: 67b8bb3d40cc30042beb36da932b3e0c, type: 2}
+  - weapon: {fileID: 11400000, guid: ba1beff565b4d1744b035cfeac8f3b08, type: 2}
+    enemy: {fileID: 11400000, guid: 9a316ca2a7b052249b06edd98207341d, type: 2}
+  - weapon: {fileID: 11400000, guid: d2f4afdaaddab594cab200744e99899c, type: 2}
+    enemy: {fileID: 11400000, guid: 313db982056065e428e59e5392350d3b, type: 2}
+  - weapon: {fileID: 11400000, guid: 4f531f7c84969d1449452a59dc68054b, type: 2}
+    enemy: {fileID: 11400000, guid: 313db982056065e428e59e5392350d3b, type: 2}
+  entranceReward: 1

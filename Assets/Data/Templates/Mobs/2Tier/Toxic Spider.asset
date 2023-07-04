@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: Toxic Spider
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1444322201, guid: 5d410effc77be324d8a7a8dfb61438c0, type: 3}
+  mobName: Toxic Spider
+  tags:
+  - {fileID: 11400000, guid: fec2cde0a2fc74840bced89debc37f77, type: 2}
+  - {fileID: 11400000, guid: 09edb9b84752da74d9aa48562246351c, type: 2}
+  crafts:
+  - first: {fileID: 11400000, guid: 64aedef282a22044cba0675e2291dddb, type: 2}
+    second: {fileID: 11400000, guid: 53fcab5c3b288734ead7ef55dd3b6d1e, type: 2}
+    firstCount: 1
+    secondCount: 1
+  - first: {fileID: 11400000, guid: 1c4910eb43c10104f8827eee775299b7, type: 2}
+    second: {fileID: 11400000, guid: 53fcab5c3b288734ead7ef55dd3b6d1e, type: 2}
+    firstCount: 1
+    secondCount: 1
+  cost: 10
+  tier: 2

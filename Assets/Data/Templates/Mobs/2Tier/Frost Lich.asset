@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a126f7795c4dada37daedf31168938, type: 3}
+  m_Name: Frost Lich
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -399837359, guid: 5d410effc77be324d8a7a8dfb61438c0, type: 3}
+  mobName: Frost Lich
+  tags:
+  - {fileID: 11400000, guid: 52ee675502fdfa341be545e9ab9c9d20, type: 2}
+  - {fileID: 11400000, guid: 409acad53c913dd4381ffb4348c1cf4f, type: 2}
+  - {fileID: 11400000, guid: b475194fb600eed46bbfcd1f3133ca6e, type: 2}
+  - {fileID: 11400000, guid: bed2bab8d7fe82d4ca5a9b4063486ca0, type: 2}
+  crafts:
+  - first: {fileID: 11400000, guid: a2dd308eea558f3418b89a4d039436db, type: 2}
+    second: {fileID: 11400000, guid: b75d7e59a705c6c428118b0c0a179b03, type: 2}
+    firstCount: 1
+    secondCount: 1
+  cost: 11
+  tier: 2

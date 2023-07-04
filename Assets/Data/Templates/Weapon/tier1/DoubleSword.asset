@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baf3736f333448048f7341b43fdc2606, type: 3}
+  m_Name: DoubleSword
+  m_EditorClassIdentifier: 
+  weaponName: Warrior
+  sprite: {fileID: 397132581, guid: 2224432ba45ae1d4e87800d74fe6bb4f, type: 3}
+  tags:
+  - {fileID: 11400000, guid: c15a2480f45096746a19bae0951bc970, type: 2}
+  - {fileID: 11400000, guid: 73d32c29d498f0b48b83103ffee838aa, type: 2}
+  tier: 1

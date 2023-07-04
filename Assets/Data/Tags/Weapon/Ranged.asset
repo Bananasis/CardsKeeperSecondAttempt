@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Ranged
+  m_EditorClassIdentifier: 
+  tagName: Ranged
+  tagTitle: Ranged
+  tagDescription: 'Can attack enemies up to 1 tile away and diagonally '
+  defenceModifiers: []
+  attackModifiers: []
+  adjacencyModifiers: []
+  hp: -1
+  damage: -1
+  speed: 0
+  armor: 0
+  behaviourStrategies: {fileID: 11400000, guid: 358b3801dac4f4e449b816d98640a685, type: 2}
+  powerBonus: 0
+  power: 0
+  attack: {fileID: 0}
+  impact: {fileID: 0}
+  spawn: {fileID: 0}

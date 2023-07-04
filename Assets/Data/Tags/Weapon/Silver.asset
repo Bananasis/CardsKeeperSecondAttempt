@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9756d7364f24d319b5711a8bad58b9d, type: 3}
+  m_Name: Silver
+  m_EditorClassIdentifier: 
+  tagName: Silver
+  tagTitle: Silver Weapon
+  tagDescription: More damage to undead
+  defenceModifiers: []
+  attackModifiers:
+  - exlusive: 0
+    self: 0
+    modifiers:
+    - {fileID: 11400000, guid: ee1f8f6f487da884589864f224ca2b6e, type: 2}
+    otherTags:
+    - {fileID: 11400000, guid: bed2bab8d7fe82d4ca5a9b4063486ca0, type: 2}
+  hp: 0
+  damage: 0
+  speed: 0
+  armor: 0
+  behaviourStrategies: {fileID: 0}
+  powerBonus: 0
+  power: 1
+  attack: {fileID: 0}
+  impact: {fileID: 0}
